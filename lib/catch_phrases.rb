@@ -7,3 +7,7 @@ end
 def toadstool
   puts status
 end
+
+def catch_phrase(phrase)
+  puts phrase
+end 
